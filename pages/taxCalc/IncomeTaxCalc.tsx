@@ -1,7 +1,3 @@
-import { NextPage } from 'next';
-
-const IncomeTaxCalc: NextPage = () => {
-  return <div>Some page</div>;
-};
-
-export default IncomeTaxCalc;
+export default function IncomeTaxCalc() {
+  return <div>Hi </div>;
+}
