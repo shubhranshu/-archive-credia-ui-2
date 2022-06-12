@@ -16,7 +16,7 @@ module.exports = withTM({
     // HOST
     HOST_API_KEY: 'https://minimal-assets-api-dev.vercel.app',
     // MAPBOX
-    MAPBOX_API: '',
+    MAPBOX_API: 'pk.eyJ1Ijoic2h1YmhyYW5zaHUiLCJhIjoiY2w0YW12OG03MDZodDNkcm82bWNlanU5bCJ9.PVRIWmwQSoIKzdEePZcTEA',
     // FIREBASE
     FIREBASE_API_KEY: '',
     FIREBASE_AUTH_DOMAIN: '',
